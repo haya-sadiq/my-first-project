@@ -1,0 +1,4 @@
+we can use CSS in three ways
+Inline CSS = The css we write inside the tag 
+External CSS =
+Internal Css = 
